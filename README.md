@@ -1,80 +1,73 @@
- ![Status do Projeto](https://img.shields.io/badge/status-concluido%20-midigreen)
+# Joana Castro Studio ? Previous Personal Portfolio
 
+Before focusing on UI/UX and front-end development, my professional background was rooted in graphic design, fashion design, branding and visual communication.
 
-# Personal Portfolio
+Joana Castro Studio was one of my earlier personal portfolios. Created in 2024, it captures a stage of transition in my career, bringing together graphic work, illustration, branding and my growing exploration of digital interfaces.
 
-Welcome to the repository of my personal portfolio site! This project was created to showcase my work, skills and professional career. The platform was developed using HTML, CSS and JavaScript, and has a responsive design that allows for a good browsing experience on mobile and desktop devices.
+Looking back, this portfolio helps explain the visual foundation behind the way I approach UI/UX and front-end development today.
 
-Check the link:  https://joanacastrostudio.com/
+**Current portfolio:** [Atlyon](https://atlyon.pt)
 
+## From Visual Design to Digital Products
 
-## 📄 Description 
-This portfolio site displays a collection of my projects and experiences, including:
-- About me: A brief introduction to my background, interests and professional goals.
-- Projects: Gallery with the main projects I've developed, each with a description, technologies used and links to view or repository.
-- Skills: Section with my main technical skills and programming languages.
-- Contact: Contact form to make it easier to send messages.
+My experience began in visual design, product and fashion design, and progressively expanded into digital experiences. Hierarchy, typography, composition, visual identity and attention to detail were already central to my work before I moved into UI/UX and front-end development.
 
+As my work became increasingly digital, that foundation informed my approach to interface design and eventually to front-end implementation. Today, those disciplines come together in the way I work across UI/UX and development.
 
-## 🎬 Demonstration
+## Selected Creative Work
 
-<p align="center">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap1.png" alt="Imagem 1" >
-</p>
+The portfolio brought together selected professional and personal work in 11 project galleries, spanning:
 
-<p align="center">
-    <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap6.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap2.png" alt="Imagem 1" width="45%">
-</p>
+- **Graphic Design** ? communication pieces and visual applications
+- **Branding** ? identity and its expression across different formats
+- **Fashion Illustration** ? drawings, composition and visual exploration
+- **Visual Communication** ? illustration and imagery used to communicate ideas
+- **Digital Design** ? web and mobile experiences and product concepts
+- **UI / Web Interfaces** ? interface design and presentation for web-based projects
 
-<p align="center">
-    <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap3.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap4.png" alt="Imagem 1" width="45%">
-</p>
+These desktop screenshots preserve the identity, range of work and gallery presentation of the portfolio.
 
-<p align="center">
-<img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap5.png" alt="Imagem 2">
-</p>
+**Joana Castro Studio identity**
 
+<img src="assets/imgs/cap1.png" alt="Joana Castro Studio homepage with a centered black and red wordmark, section navigation and circular design services text on a white background" width="100%">
 
+**A selection of graphic, illustration and digital work**
 
-## 🚀 Features
+<img src="assets/imgs/cap2.png" alt="Portfolio grid presenting web interface mockups, fashion illustration and airport and transport illustrations" width="100%">
 
-- Responsive Design: The layout adapts to different screen sizes, including mobile devices.
-- Smooth Animations: Simple visual effects for a more enjoyable experience.
-- JavaScript interactivity: Includes interactive navigation to improve usability.
+**Fashion illustration gallery**
 
-## 🛠️ Technologies Used
+<img src="assets/imgs/cap3.png" alt="Individual fashion illustration project gallery with artwork displayed in a horizontal carousel, navigation arrows and pagination dots" width="100%">
 
-This project is built using the following frontend technologies and tools:
+## Portfolio Implementation
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
+The portfolio was developed from the Geekfolio front-end template by UI-ThemeZ, which provided the original technical foundation.
 
-</div>
+I adapted the experience to my own identity and body of work, integrating my content, project galleries, visual direction, layout adaptations and front-end customizations, including responsive adjustments.
 
+## Built With
 
-## 📦 Installation
+HTML ? CSS / SCSS ? JavaScript ? Bootstrap
 
-To run the project locally, follow these steps:
+Interactive functionality also uses libraries and plugins included with the original template, with credit to their respective authors.
 
-### 1. Clone the Repository:
-```bash
-   git clone https://github.com/joanadecastro/Personal-Portfolio.git
-```
+## Evolution
 
-### 2. Navigate to the project directory:
-```bash
-   cd Personal-Portfolio
-```
+This portfolio represents an earlier chapter of my career and is preserved as a creative archive. It is no longer my active portfolio.
 
-### 3. Open the index.html file in your preferred browser to view the portfolio.
+The visual and design principles visible here became part of the foundation for my later work in UI/UX, digital products and front-end development.
 
+My current portfolio continues that evolution through product design, case studies and implementation: **[Atlyon](https://atlyon.pt)**.
 
+## Author
 
+**Joana Castro**  
+UI/UX Designer & Front-end Developer
 
+- **Current Portfolio:** [Atlyon](https://atlyon.pt)
+- **LinkedIn:** [joanadecastro](https://www.linkedin.com/in/joanadecastro/)
+- **GitHub:** [joanadecastro](https://github.com/joanadecastro)
+
+## Template Credit
+
+Based on **[Geekfolio ? Creative Agency & Portfolio Template](https://themeforest.net/item/geekfolio-creative-agency-portfolio-template/45360728)** by **UI-ThemeZ**, customized for the Joana Castro Studio portfolio.
