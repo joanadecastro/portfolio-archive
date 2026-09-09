@@ -1,4 +1,4 @@
-# Joana Castro Studio ? Previous Personal Portfolio
+# Joana Castro Studio — Previous Personal Portfolio
 
 Before focusing on UI/UX and front-end development, my professional background was rooted in graphic design, fashion design, branding and visual communication.
 
@@ -18,12 +18,12 @@ As my work became increasingly digital, that foundation informed my approach to 
 
 The portfolio brought together selected professional and personal work in 11 project galleries, spanning:
 
-- **Graphic Design** ? communication pieces and visual applications
-- **Branding** ? identity and its expression across different formats
-- **Fashion Illustration** ? drawings, composition and visual exploration
-- **Visual Communication** ? illustration and imagery used to communicate ideas
-- **Digital Design** ? web and mobile experiences and product concepts
-- **UI / Web Interfaces** ? interface design and presentation for web-based projects
+- **Graphic Design** — communication pieces and visual applications
+- **Branding** — identity and its expression across different formats
+- **Fashion Illustration** — drawings, composition and visual exploration
+- **Visual Communication** — illustration and imagery used to communicate ideas
+- **Digital Design** — web and mobile experiences and product concepts
+- **UI / Web Interfaces** — interface design and presentation for web-based projects
 
 These desktop screenshots preserve the identity, range of work and gallery presentation of the portfolio.
 
@@ -47,7 +47,7 @@ I adapted the experience to my own identity and body of work, integrating my con
 
 ## Built With
 
-HTML ? CSS / SCSS ? JavaScript ? Bootstrap
+HTML · CSS / SCSS · JavaScript · Bootstrap
 
 Interactive functionality also uses libraries and plugins included with the original template, with credit to their respective authors.
 
@@ -70,4 +70,4 @@ UI/UX Designer & Front-end Developer
 
 ## Template Credit
 
-Based on **[Geekfolio ? Creative Agency & Portfolio Template](https://themeforest.net/item/geekfolio-creative-agency-portfolio-template/45360728)** by **UI-ThemeZ**, customized for the Joana Castro Studio portfolio.
+Based on **[Geekfolio — Creative Agency & Portfolio Template](https://themeforest.net/item/geekfolio-creative-agency-portfolio-template/45360728)** by **UI-ThemeZ**, customized for the Joana Castro Studio portfolio.
